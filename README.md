@@ -1,0 +1,1 @@
+# seo-scanner-chrome-extension
